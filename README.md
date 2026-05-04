@@ -22,7 +22,7 @@ All pages are in one url and only Fen changes along with
 
 <img width="1862" height="856" alt="image" src="https://github.com/user-attachments/assets/bd657224-f17d-466d-96d8-b7faa107d2f5" />
 <br>
-<img width="1887" height="881" alt="image" src="https://github.com/user-attachments/assets/7e41d3c3-1cc8-4e10-987b-067bc462f0b1" />
+<img width="1883" height="886" alt="image" src="https://github.com/user-attachments/assets/6652e70a-0f29-44de-9913-648be5e9245d" />
 
 
 
