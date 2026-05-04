@@ -435,8 +435,8 @@ lockCheckBox.addEventListener("click", function () {
           }
         }
       })
+        h_Lock.innerHTML = "Disable Locks"
     }
-    h_Lock.innerHTML = "Disable Locks"
   })
 
 
