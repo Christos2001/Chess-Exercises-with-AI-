@@ -20,10 +20,11 @@ All pages are in one url and only Fen changes along with
 
 
 
-![image](https://github.com/user-attachments/assets/ac5e6e1f-9f82-4bdc-a774-3e3649666681)
-![image](https://github.com/user-attachments/assets/b6774725-934b-4d57-9304-fffea72a925a)
-![image](https://github.com/user-attachments/assets/2acf65a7-f944-4890-a8e9-700e142b3283)
-![image](https://github.com/user-attachments/assets/e584bb84-ae98-4669-9f01-c44d5f1351e2)
+<img width="1862" height="856" alt="image" src="https://github.com/user-attachments/assets/bd657224-f17d-466d-96d8-b7faa107d2f5" />
+<br>
+<img width="1887" height="881" alt="image" src="https://github.com/user-attachments/assets/7e41d3c3-1cc8-4e10-987b-067bc462f0b1" />
+
+
 
 
 
